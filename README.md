@@ -1,6 +1,6 @@
 # 💫About Me :
 Hello👋🏼 
-My name is Radoslav. 21 years old. <br>
+My name is Radoslav. 24 years old. <br>
 👩🏻‍💻 .NET Developer <br>
 💻 Currently  studying software engineering at  [Fontys university of applied sciences](https://fontys.edu/) 
 
