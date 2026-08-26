@@ -2,7 +2,7 @@
 Hello👋🏼 
 My name is Radoslav. 24 years old. <br>
 👩🏻‍💻 .NET Developer <br>
-💻 Currently  studying software engineering at  [Fontys university of applied sciences](https://fontys.edu/) 
+💻 Graduated software engineering at  [Fontys university of applied sciences](https://fontys.edu/) 
 
 #### 🛠️ Portfolio & Services  [Radev Software](https://radev.software/)  👈🏻
 ![](https://komarev.com/ghpvc/?username=raga70)
